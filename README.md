@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/martin-lucarelli-381988311" target="_blank">
+  <a href="https://www.linkedin.com/in/martin-lucarelli-381988311" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="37" alt="linkedin logo"  />
   </a>
   <a href="mailto:martin.lucarelli94@gmail.com" target="_blank">
