@@ -51,10 +51,10 @@
 
 ###
 
-<p align="left">Repositorio 👉 <a href="https://github.com/martinlucarelli/Sistema_Gestion_Negocio_ASP.NET_MVC" target="_blank">Sistema_Gestion_Negocio_ASP.NET_MVC</a></p>
+> <p align="left">Repositorio 👉 <a href="https://github.com/martinlucarelli/Sistema_Gestion_Negocio_ASP.NET_MVC" target="_blank">Sistema_Gestion_Negocio_ASP.NET_MVC</a></p>
 
 ###
-
+---
 <p align="left">🔍 Explorá todos mis proyectos 👉 <a href="https://github.com/martinlucarelli" target="_blank">GitHub</a></p>
 
 ###
